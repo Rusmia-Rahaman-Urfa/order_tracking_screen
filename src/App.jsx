@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { scenarios } from './data/mockOrder';
 import StatePanel from './components/StatePanel';
-import DeliveryTimeline from './components/DeliveryTimeLine';
+import DeliveryTimeline from './components/DeliveryTimeline';
 import ProductSummary from './components/ProductSummary';
 
 export default function App() {
